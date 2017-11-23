@@ -1,0 +1,47 @@
+body
+{
+	background: #E9ECEF;
+	/*font-family: 'Poiret One', cursive; */
+	font-family: 'Source Sans Pro', sans-ser;
+}
+
+h1,h2,h3,h4,h5,h6
+{
+	/*font-family: 'Lobster Two', cursive; */
+	font-family: 'Fjalla One', sans-serif;
+}
+
+/* Nav -------------*/
+.main-title
+{
+	color: orange !important;
+	font-size: 26px;
+}
+
+/*footer -----*/
+footer
+{
+	background: #666;
+	padding: 20px;
+}
+
+.page
+{
+	background: #fff;
+	border-radius: 1em;
+	margin: 1em;
+	min-height: 500px;
+	padding: 1em;
+}
+
+.icon-home
+{
+	color: #666;
+	font-size: 60px;
+	margin: 20px;
+}
+
+.btn-home-admin
+{
+	font-size: 25px;
+}
